@@ -715,7 +715,25 @@
                         }]
                 }, 
                 {
+                 "id":132,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":144,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":148,
                  "properties":[
                         {
                          "name":"collides",
@@ -1018,6 +1036,15 @@
          "tiles":[
                 {
                  "id":37,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":46,
                  "properties":[
                         {
                          "name":"collides",
