@@ -1053,6 +1053,19 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":321,
+         "image":"watercooler.png",
+         "imageheight":66,
+         "imagewidth":33,
+         "margin":0,
+         "name":"watercooler",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
