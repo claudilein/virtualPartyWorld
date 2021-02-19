@@ -61,6 +61,12 @@
          "id":3,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "startx":-16,
          "starty":-16,
          "type":"tilelayer",
