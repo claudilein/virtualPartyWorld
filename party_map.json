@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"iglu.json#entry_0"
+                 "value":"iglu.json#entry0"
                 }],
          "type":"tilelayer",
          "visible":true,
