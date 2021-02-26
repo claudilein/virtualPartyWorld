@@ -116,11 +116,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"MeetingRoom1"
-                }, 
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/docs.google.com\/document\/d\/1FIXSHx7DmUvpBK9OvM92w85jr-ArdoIKNnaGk8TJSbw\/edit"
                 }],
          "type":"tilelayer",
          "visible":true,
