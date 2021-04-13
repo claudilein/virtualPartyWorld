@@ -19,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1Fr3A9SLIVN4Rtuzyc4YDaTwvpSAnqJv_CXoZp90sx4Q\/edit#gid=0"
+                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1Fr3A9SLIVN4Rtuzyc4YDaTwvpSAnqJv_CXoZp90sx4Q\/edit?usp=sharing"
                 }],
          "type":"tilelayer",
          "visible":true,
