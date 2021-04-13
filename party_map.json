@@ -19,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1Fr3A9SLIVN4Rtuzyc4YDaTwvpSAnqJv_CXoZp90sx4Q\/edit?usp=sharing"
+                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1Fr3A9SLIVN4Rtuzyc4YDaTwvpSAnqJv_CXoZp90sx4Q\/edit#gid=0"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -74,12 +74,6 @@
          "id":30,
          "name":"Music_Dancefloor",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"Vulfpeck - Darwin Derby.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":49,
@@ -114,7 +108,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSc_7TeqX7OlJyFkKGUGWEo-KZZ5Z3qWEhjoWcXi5601ZjuhxA\/viewform?usp=sf_link"
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeCdsJ0BvrDYMR30jXL7UJ42Kyc5aax-HfujCaEb7rQa1SBhw\/viewform?usp=sf_link"
                 }],
          "type":"tilelayer",
          "visible":true,
