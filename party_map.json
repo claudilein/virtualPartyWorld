@@ -19,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1YlSY8BYVngHRgBlfjjEL3YU3D99LgjEJeZuIh8M_saY\/edit?usp=sharing"
+                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1Fr3A9SLIVN4Rtuzyc4YDaTwvpSAnqJv_CXoZp90sx4Q\/edit#gid=0"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/claudilein.github.io\/"
+                 "value":"https:\/\/www.goodoldtetris.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -150,7 +150,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdoaPcgE5Iig0bizIlpszecngwKoexNX6fqdI90lw3-IF7dBQ\/viewform?usp=sf_link"
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScV82Vuq3iRyHPs8dD2tpb3QenwF4QXrxapPus7UeP2-hvIcw\/viewform?usp=sf_link"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -168,7 +168,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdXn0zm6T9FOwxpCA1lCOj98DSQZ9f6D2YkgJmiNXHr0nr6Kg\/viewform?usp=sf_link"
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSclO6iWZ7ALLyBqJsCuPHtqhY4wQqsBvOtxmoe7m11yh2jYaw\/viewform?usp=sf_link"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -204,7 +204,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScnwEbx7EQbMY3dA6tQ7ll0MGENLd11s9sHYVLakgxXVuYHpQ\/viewform?usp=sf_link"
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScNu1EoeDY3FOH7S5B5z6uylzK3D_BsN5RKQSkxGyQfiKHjBQ\/viewform?usp=sf_link"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -222,7 +222,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1vg9yJe1T27IahXx1LCjJnQpvErvk3nbemC5NCqlIyhM\/edit?usp=sharing"
+                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1ej9yEzY9a-FbcEYE_3fL0OF4is_p-TSW-jQaA7FC034\/edit?usp=sharing"
                 }],
          "type":"tilelayer",
          "visible":true,
