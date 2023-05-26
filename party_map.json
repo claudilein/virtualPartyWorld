@@ -4276,8 +4276,17 @@
          "source":"Schrift_Votesout.tsx"
         }, 
         {
+         "columns":11,
          "firstgid":5168,
-         "source":"Schrift_MakeItMeme_5.tsx"
+         "image":"Schrift_MakeItMeme.png",
+         "imageheight":33,
+         "imagewidth":353,
+         "margin":0,
+         "name":"Schrift_MakeItMeme_6",
+         "spacing":0,
+         "tilecount":11,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
